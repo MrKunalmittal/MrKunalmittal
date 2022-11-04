@@ -11,11 +11,14 @@ I know some basics of  C, C++, HTML, CSS, JavaScript, Machine Learning, Java. Fe
 
 ## Skills
 
-
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"width="40"height="40" />
 <img src="https://raw.github.com/devicons/devicon/master/icons/c/c-line.svg" alt="C" width="40" height="40" />
 <img src="https://raw.github.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+</p>
 
 ## Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=MrKunalmittal&show_icons=true&count_private=true" alt="Mrkunalmittal" />
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKunalmittal&show_icons=true&hide_border=true" />
