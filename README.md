@@ -5,9 +5,9 @@
 ## About me
 #### Welcome ! to My Profile
 
-Hi I am Kunal Mittal, Computer Science Engineer from India now based in Winnipeg. Currently I am pursuing Software Developer Program from Manitoba Institute of Trade and Technology. 
+Hi I am Kunal Mittal, Computer Science Engineer from India now based in Winnipeg. Currently I am pursuing Software Developer Program from Manitoba Institute of Trades and Technology. 
 
-I know some basics of  C, C++, HTML, CSS, JavaScript, Machine Learning, Java. Few years ago, just after completing my graduation During my free time I love to do creative things like painting , craft work ,sketching and baking.
+I know  C, C++, HTML, CSS, JavaScript, Machine Learning, JavaScript, C#, .NET MVC, DataBase. Few years ago, just after completing my graduation During my free time I love to do creative things like painting , craft work ,sketching and baking.
 
 ## Skills
 
@@ -16,6 +16,8 @@ I know some basics of  C, C++, HTML, CSS, JavaScript, Machine Learning, Java. Fe
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"width="40"height="40" />
 <img src="https://raw.github.com/devicons/devicon/master/icons/c/c-line.svg" alt="C" width="40" height="40" />
 <img src="https://raw.github.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#"  width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  alt="VisualStudio"  width="40" height="40"/>
 </p>
 
 ## Stats
