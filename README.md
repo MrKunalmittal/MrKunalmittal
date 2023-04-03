@@ -25,7 +25,7 @@ I know  C, C++, HTML, CSS, JavaScript, Machine Learning, JavaScript, C#, .NET MV
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api/?username=MrKunalmittal&count_private=true&showicons=true" alt="Kunal 's GitHub stats" />
 </a>
 <a href="https://github.com/MrKunalmittal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKunalmittal&langs_count=9" alt="Kunal's 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKunalmittal" alt="Kunal's 
   GitHub stats"/>
 </a>
 
