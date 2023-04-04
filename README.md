@@ -12,12 +12,12 @@ I know  C, C++, HTML, CSS, JavaScript, Machine Learning, JavaScript, C#, .NET MV
 ## Skills
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"width="40"height="40" />
-<img src="https://raw.github.com/devicons/devicon/master/icons/c/c-line.svg" alt="C" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"title="CSS" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript"width="40"height="40" />
+<img src="https://raw.github.com/devicons/devicon/master/icons/c/c-line.svg" alt="C" width="40" title="C"height="40" />
 <img src="https://raw.github.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#"  width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  alt="VisualStudio"  width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"  alt="VisualStudio" title="VisualStudio" width="40" height="40"/>
 </p>
 
 ## Stats
